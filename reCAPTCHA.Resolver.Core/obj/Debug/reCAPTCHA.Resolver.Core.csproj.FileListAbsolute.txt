@@ -73,3 +73,5 @@ G:\OsmanYavuz-web\reCAPTCHA.Resolver\reCAPTCHA.Resolver.Core\bin\Debug\WebDriver
 G:\OsmanYavuz-web\reCAPTCHA.Resolver\reCAPTCHA.Resolver.Core\obj\Debug\reCAPTCHA.Resolver.Core.csproj.CopyComplete
 G:\OsmanYavuz-web\reCAPTCHA.Resolver\reCAPTCHA.Resolver.Core\obj\Debug\reCAPTCHA.Resolver.Core.dll
 G:\OsmanYavuz-web\reCAPTCHA.Resolver\reCAPTCHA.Resolver.Core\obj\Debug\reCAPTCHA.Resolver.Core.pdb
+G:\OsmanYavuz-web\reCAPTCHA.Resolver\reCAPTCHA.Resolver.Core\obj\Debug\reCAPTCHA.Resolver.Core.csprojAssemblyReference.cache
+G:\OsmanYavuz-web\reCAPTCHA.Resolver\reCAPTCHA.Resolver.Core\obj\Debug\reCAPTCHA.Resolver.Core.csproj.CoreCompileInputs.cache

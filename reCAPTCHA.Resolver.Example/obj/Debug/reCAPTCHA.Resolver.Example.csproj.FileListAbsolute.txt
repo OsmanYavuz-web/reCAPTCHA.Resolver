@@ -20,3 +20,4 @@ G:\OsmanYavuz-web\reCAPTCHA.Resolver\reCAPTCHA.Resolver.Example\obj\Debug\reCAPT
 G:\OsmanYavuz-web\reCAPTCHA.Resolver\reCAPTCHA.Resolver.Example\obj\Debug\reCAPTCHA.Resolver.Example.csproj.CopyComplete
 G:\OsmanYavuz-web\reCAPTCHA.Resolver\reCAPTCHA.Resolver.Example\obj\Debug\reCAPTCHA.Resolver.Example.exe
 G:\OsmanYavuz-web\reCAPTCHA.Resolver\reCAPTCHA.Resolver.Example\obj\Debug\reCAPTCHA.Resolver.Example.pdb
+G:\OsmanYavuz-web\reCAPTCHA.Resolver\reCAPTCHA.Resolver.Example\obj\Debug\reCAPTCHA.Resolver.Example.csproj.CoreCompileInputs.cache
